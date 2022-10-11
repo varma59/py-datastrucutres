@@ -14,3 +14,8 @@ if(res == -1):
     print("elemnt not found")
 else:
     print("element found ",res)
+    
+    Worst complexity: O(n)
+Average complexity: O(n)
+Space complexity: O(1)
+Average performance: O(n/2)
